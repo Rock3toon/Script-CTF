@@ -1,1 +1,1 @@
-In this rep can find my personal write up about some WEB, SOFTWARE, CRYPTO, NETWORK vulnerabilities and documentation (For capture the flag competition).
+This repository contains my personal write-ups and documentation on various web, software, cryptography, and network vulnerabilities. It's designed for anyone interested in learning from Capture the Flag (CTF) challenges and security vulnerabilities in general. Each write-up details the steps taken to exploit or analyze the vulnerabilities, providing insights into methodologies and tools used during the competitions.
